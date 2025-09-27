@@ -9,6 +9,13 @@ Work Completed Today
 -Added a Skills Progress section with example skill levels.
 -Added Quick Actions section for profile updates, resume upload, and learning resources.
 
+Folder-structure->
+Campus-Assistant/
+│
+├── Dashboard.jsx
+├── README.md
+└── package.json
+
 Next Steps
 -Connect the Supabase backend for:
 -User authentication (email and Google sign-in)

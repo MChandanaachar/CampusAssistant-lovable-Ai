@@ -1,4 +1,4 @@
-# CampusAssistant-lovable-Ai
+# CampusAssistant
 
 Campus Assistant – Progress Update (Sep 28, 2025)
 -This repository contains the ongoing development of Campus Assistant, a web application to help undergraduate students discover job opportunities, internships, and career paths based on their skills.
